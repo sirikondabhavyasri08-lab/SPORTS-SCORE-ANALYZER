@@ -1,0 +1,41 @@
+match_id,date,tournament,sport,team_a,team_b,score_a,score_b,venue,status
+M001,2026-10-17,Champions Series,Cricket,India,Australia,250,200,Hyderabad,Completed
+M002,2026-10-18,National Cup,Cricket,Australia,New Zealand,180,190,Mumbai,Completed
+M003,2026-10-19,Friendly Series,Cricket,England,Bangladesh,210,210,Chennai,Completed
+M004,2026-10-20,Premier League,Cricket,Pakistan,England,275,260,Delhi,Completed
+M005,2026-10-21,Champions Series,Cricket,New Zealand,South Africa,195,220,Bengaluru,Completed
+M006,2026-10-22,National Cup,Cricket,South Africa,India,240,230,Kolkata,Completed
+M007,2026-10-23,Friendly Series,Cricket,Sri Lanka,Pakistan,205,198,Pune,Completed
+M008,2026-10-24,Premier League,Cricket,Bangladesh,Sri Lanka,230,225,Ahmedabad,Completed
+M009,2026-10-25,Champions Series,Cricket,India,Australia,188,201,Hyderabad,Completed
+M010,2026-10-26,National Cup,Cricket,Australia,New Zealand,215,222,Mumbai,Completed
+M011,2026-10-27,Friendly Series,Cricket,England,Bangladesh,253,202,Chennai,Completed
+M012,2026-10-28,Premier League,Cricket,Pakistan,England,183,192,Delhi,Completed
+M013,2026-10-29,Champions Series,Cricket,New Zealand,South Africa,213,212,Bengaluru,Completed
+M014,2026-10-30,National Cup,Cricket,South Africa,India,278,262,Kolkata,Completed
+M015,2026-10-31,Friendly Series,Cricket,Sri Lanka,Pakistan,198,222,Pune,Completed
+M016,2026-11-01,Premier League,Cricket,Bangladesh,Sri Lanka,243,232,Ahmedabad,Completed
+M017,2026-11-02,Champions Series,Cricket,India,Australia,208,200,Hyderabad,Completed
+M018,2026-11-03,National Cup,Cricket,Australia,New Zealand,233,227,Mumbai,Completed
+M019,2026-11-04,Friendly Series,Cricket,England,Bangladesh,191,203,Chennai,Completed
+M020,2026-11-05,Premier League,Cricket,Pakistan,England,218,224,Delhi,Completed
+M021,2026-11-06,Champions Series,Cricket,New Zealand,South Africa,256,204,Bengaluru,Completed
+M022,2026-11-07,National Cup,Cricket,South Africa,India,186,194,Kolkata,Completed
+M023,2026-11-08,Friendly Series,Cricket,Sri Lanka,Pakistan,216,214,Pune,Completed
+M024,2026-11-09,Premier League,Cricket,Bangladesh,Sri Lanka,281,264,Ahmedabad,Completed
+M025,2026-11-10,Champions Series,Cricket,India,Australia,201,224,Hyderabad,Completed
+M026,2026-11-11,National Cup,Cricket,Australia,New Zealand,246,234,Mumbai,Completed
+M027,2026-11-12,Friendly Series,Cricket,England,Bangladesh,211,202,Chennai,Completed
+M028,2026-11-13,Premier League,Cricket,Pakistan,England,236,229,Delhi,Completed
+M029,2026-11-14,Champions Series,Cricket,New Zealand,South Africa,194,205,Bengaluru,Completed
+M030,2026-11-15,National Cup,Cricket,South Africa,India,221,226,Kolkata,Completed
+M031,2026-11-16,Friendly Series,Cricket,Sri Lanka,Pakistan,259,206,Pune,Completed
+M032,2026-11-17,Premier League,Cricket,Bangladesh,Sri Lanka,189,196,Ahmedabad,Completed
+M033,2026-11-18,Champions Series,Cricket,India,Australia,219,216,Hyderabad,Completed
+M034,2026-11-19,National Cup,Cricket,Australia,New Zealand,284,266,Mumbai,Completed
+M035,2026-11-17,Friendly Series,Cricket,England,Bangladesh,204,226,Chennai,Scheduled
+M036,2026-11-18,Premier League,Cricket,Pakistan,England,249,236,Delhi,Scheduled
+M037,2026-11-19,Champions Series,Cricket,New Zealand,South Africa,214,204,Bengaluru,Scheduled
+M038,2026-11-20,National Cup,Cricket,South Africa,India,239,231,Kolkata,Scheduled
+M039,2026-11-21,Friendly Series,Cricket,Sri Lanka,Pakistan,197,207,Pune,Abandoned
+M040,2026-11-22,Premier League,Cricket,Bangladesh,Sri Lanka,0,0,Ahmedabad,Abandoned
